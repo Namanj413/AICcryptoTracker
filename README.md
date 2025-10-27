@@ -1,6 +1,4 @@
-# Welcome to CryptoTracker
 
-This project is for a front-end dashboard.
 
 ## How can I run this code?
 
